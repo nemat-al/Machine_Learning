@@ -10,7 +10,7 @@ Tasks for Machine Learning Course in ITMO University.
 
 ---------------------
 
-### [Classifiers](https://github.com/Nemat-Allah-Aloush/Machine_Learning_Techinques/blob/main/Task_1.ipynb)
+### [Classifiers](https://github.com/nemat-al/Machine_Learning/blob/main/Task_1.ipynb )
 * The first task was to train, test and evaluate four different models.
 The four different trained classifiers are:
 1. Small decision tree
@@ -24,7 +24,7 @@ and calculate different metrics to evaluate it. By avoiding Type II errors, it m
 
 ---------------------
 
-### [Optimization algorithms](https://github.com/Nemat-Allah-Aloush/Machine_Learning_Techinques/blob/main/Task_2_Optimization.ipynb)
+### [Optimization algorithms](https://github.com/neamt-al/Machine_Learning/blob/main/Task_2_Optimization.ipynb)
 * In this file two optimization algorithms were implemented:
 1. Gradient Descent (GD) algorithm 
 2. Adam's optimization algorithm 
@@ -34,12 +34,12 @@ for a function of two variables f(x,y).
 
 ---------------------
 
-### [logistic regression method](https://github.com/Nemat-Allah-Aloush/Machine_Learning_Techinques/blob/main/Task_3.ipynb)
+### [logistic regression method](https://github.com/neamt-al/Machine_Learning/blob/main/Task_3.ipynb)
 Logistic regression method was implemented through three different optimization algorithms: gradient descent, stochastic gradient descent, and Adam algorithm. The three algorithms were built as modeled and trained for 5 different learning rates. Finally the performance of the three algorithms was compared
 
 ---------------------
 
-### [Natural Language Processing](https://github.com/Nemat-Allah-Aloush/Machine_Learning_Techinques/blob/main/Task_4_NLP.ipynb)
+### [Natural Language Processing](https://github.com/neamt-al/Machine_Learning/blob/main/Task_4_NLP.ipynb)
 *	The data analyzed is the story of Alice in Wonderland by Lewis Carroll from Project Gutenberg's [website](http://www.gutenberg.org/files/11/11-0.txt).
 *	First of all necessary preprocessing tasks are performed on the text: converting to lower case, removing stop words, numbers / non-alphabetic characters, lemmatization.
 *	The first task is to find Top 10 most important words (excluding the word 'Alice') from each chapter in the, in terms of TF-IDF metric.
@@ -48,5 +48,5 @@ Then trying to name each chapter according to the identified tokens?
 
 ---------------------
 
-### [CNN and Transfer Learning](https://github.com/Nemat-Allah-Aloush/Machine_Learning_Techinques/blob/main/Task_5_CNN_and_Transfer_Learning.ipynb)
+### [CNN and Transfer Learning](https://github.com/neamt-al/Machine_Learning/blob/main/Task_5_CNN_and_Transfer_Learning.ipynb)
 The aim of this file is to distinguish dogs from cats first by Convolutional Neural Network and then by transfer Learning model using pre-trained VGG16-model weights from keras application.
